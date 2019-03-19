@@ -1,0 +1,2 @@
+# CIFAR10_CNN_MLP
+In this project I worked to implement fully-connected (MLP) and Convolutional Neural Networks (CNN) image classiﬁer on CIFAR10 dataset. In this task, you only need to perform multi-class classiﬁcation. Details of these models could be found in lecture 11 slides. We provide a skeleton code for data loading and iterations of training data. You are asked to implement the rest of training in Pytorch code. Detailed submission requirements are written in the ﬁnal section.
